@@ -1,0 +1,20 @@
+{
+    "name": "lnn/hellowight",
+    "description": "hello wight",
+    "type": "library",
+    "authors": [
+        {
+            "name": "linannan",
+            "email": "13730032148@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lnn\\hellowight\\": "src/"
+        }
+    }
+}
