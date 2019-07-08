@@ -1,6 +1,6 @@
 <?php
 
-namespace lnn\hellowidget;
+namespace lnn\hellowight;
 
 use yii\base\Widget;
 use yii\helpers\Html;
