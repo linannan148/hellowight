@@ -5,7 +5,7 @@ namespace lnn\hellowidget;
 use yii\base\Widget;
 use yii\helpers\Html;
 
-class HelloWight extends Widget
+class HelloWidget extends Widget
 {
     public $message;
 
