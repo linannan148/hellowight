@@ -9,15 +9,16 @@ class HelloWight extends Widget
 {
     public $message;
 
-    public function init() {
+    public function init()
+    {
         parent::init();
         if ($this->message === null) {
             $this->message = 'hello world';
         }
     }
 
-    public function run() {
+    public function run()
+    {
         return HTML::encode($this->message);
     }
-
 }
