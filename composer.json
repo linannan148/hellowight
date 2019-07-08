@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lnn\\hellowidget\\": "src/"
+            "lnn\\hellowight\\": "src/"
         }
     }
 }
